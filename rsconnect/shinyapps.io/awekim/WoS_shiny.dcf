@@ -1,0 +1,13 @@
+name: WoS_shiny
+title: WoS_shiny
+username:
+account: awekim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3458229
+bundleId: 4079082
+url: https://awekim.shinyapps.io/WoS_shiny/
+when: 1610297023.85048
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Data_Preparation.R|WoS_intd_run.R|WoS_intd_server.R|WoS_intd_ui.R
