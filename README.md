@@ -1,4 +1,4 @@
-# WoS_shiny
+# R_shiny
 
 Written by Keungoui Kim
 
@@ -16,3 +16,6 @@ https://awekim.shinyapps.io/WoS_shiny/
 
 - Science Space in EU 
 https://awekim.shinyapps.io/WoS_REG_shiny_R/
+
+- Smart Specialization and Knowledge Space
+https://awekim.shinyapps.io/SS_shiny_R/
