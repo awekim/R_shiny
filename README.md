@@ -19,3 +19,6 @@ https://awekim.shinyapps.io/WoS_REG_shiny_R/
 
 - Smart Specialization and Knowledge Space
 https://awekim.shinyapps.io/SS_shiny_R/
+
+- Trade Network of Global Manufacturing Industries
+https://awekim.shinyapps.io/Manuf_shiny_R/
